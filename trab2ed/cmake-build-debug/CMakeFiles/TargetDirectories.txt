@@ -1,0 +1,3 @@
+C:/Users/user/CLionProjects/trab2ed/cmake-build-debug/CMakeFiles/trab2ed.dir
+C:/Users/user/CLionProjects/trab2ed/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/trab2ed/cmake-build-debug/CMakeFiles/rebuild_cache.dir

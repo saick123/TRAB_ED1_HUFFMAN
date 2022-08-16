@@ -1,0 +1,1 @@
+leia as especificações na main.c
